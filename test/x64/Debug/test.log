@@ -1,0 +1,9 @@
+﻿  test.cpp
+C:\Users\freez\OneDrive\Desktop\POLI STUFF\Google Testing Workshop\Homework\Homework\Sensor.h(9,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  C:\Users\freez\OneDrive\Desktop\POLI STUFF\Google Testing Workshop\Homework\Homework\Sensor.h(10,1):
+  This diagnostic occurred in the compiler generated function 'Sensor::Sensor(void)'
+  C:\Users\freez\OneDrive\Desktop\POLI STUFF\Google Testing Workshop\Homework\test\test.cpp(63,12):
+  see reference to function 'Sensor::Sensor(void)'
+  
+  test.vcxproj -> C:\Users\freez\OneDrive\Desktop\POLI STUFF\Google Testing Workshop\Homework\x64\Debug\test.exe

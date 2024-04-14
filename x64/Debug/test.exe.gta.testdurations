@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\freez\OneDrive\Desktop\POLI STUFF\Google Testing Workshop\Homework\x64\Debug\test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/SwitchTestFixture.GivenValue_ExpectedSameValue_Params/0" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/SwitchTestFixture.GivenValue_ExpectedSameValue_Params/1" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/SwitchTestFixture.GivenValue_ExpectedSameValue_Params/2" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/SwitchTestFixture.GivenValue_ExpectedSameValue_Params/3" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/WipersTestFixture.GivenValue_ExpectedSameValue_Params/0" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/WipersTestFixture.GivenValue_ExpectedSameValue_Params/1" Duration="1" />
+    <TestDuration Test="GivenValue_ExpectedSameValue_Inst/WipersTestFixture.GivenValue_ExpectedSameValue_Params/2" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/0" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/1" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/2" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/3" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/4" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/5" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/6" Duration="1" />
+    <TestDuration Test="RandomRainIntensities/RainSensorTestFixture.RainIntensityInRange/7" Duration="1" />
+    <TestDuration Test="TestFixture.GivenValue_ExpectedSameValue_Inst" Duration="1" />
+    <TestDuration Test="TestFixture.AutomaticWipersControl" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/0" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/1" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/2" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/3" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/4" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/5" Duration="1" />
+    <TestDuration Test="RainIntensityToWipersSpeed/AutomaticWipersControlTest.WipersSpeedMatchesRainIntensity/6" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
